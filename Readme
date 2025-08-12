@@ -14,3 +14,5 @@
 
 پایداری: طراحی شده برای اتصالات پایدار و طولانی مدت با قابلیت اتصال مجدد خودکار.
 
+
+wget https://raw.githubusercontent.com/AliTabarY/WSSMUX/main/wss.sh -O wss.sh && chmod +x wss.sh && ./wss.sh
